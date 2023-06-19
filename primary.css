@@ -1,5 +1,11 @@
 body {
   background-color: grey
+  color: #000000;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+  font-size: 100%;
+  font-family:sans-serif;
 }
 
 p1 {
